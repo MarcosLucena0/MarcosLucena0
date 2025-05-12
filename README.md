@@ -46,9 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarcosLucena0/MarcosLucena0/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Como me encontrar</h2>
 
